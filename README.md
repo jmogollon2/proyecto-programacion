@@ -1,3 +1,5 @@
 # proyecto-programacion
-Proyecto segundo corte - Prestamos
-jngjrjfkmnfntrn
+PROYECTO DE SEGUNDO CORTE - PRESTAMOS
+UNIVERSIDAD DE INVESTIGACION Y DESARROLLO - UDI
+AUTOR: Jenny Paola Mogollon Duran
+
