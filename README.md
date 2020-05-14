@@ -3,16 +3,16 @@
 ##### AUTOR: JENNY PAOLA MOGOLLON DURAN
 ##### DOCENTE: Michael Sneider Puentes Palacio 
 
-CONTENIDO
-1. ¿Cómo intalarlo?
-2. Su funcionamiento
-3. Como utilizarlo
+#### CONTENIDO
+1. [¿Cómo instalarlo?](#Cómo-instalarlo)
+2. [Su funcionamiento]
+3. [Como utilizarlo]
 
-¿Cómo intalarlo?
+#### ¿Cómo instalarlo?
 
 Para la instalacion del programa debe seguir los siguientes pasos:
 1. Debe ir al siguiente link
     https://github.com/jmogollon2/proyecto-programacion
-2. Dar clic en el boton Clone or download
+2. Dar clic en el boton ***`Clone or download`***
    
-3. Seleccionar la opcion 
+3. Seleccionar la opcion ***`Download ZIP`*** 
