@@ -40,9 +40,18 @@ El programa nos permitira llevar un registro de cada prestamo de dinero que haga
 
 Cuando ya hemos instalado el programa lo abrimos y nos vamos a encontrar con un formulario donde vamos a llenar la informacion (el interes se llena automaticamente dependiendo de los meses que escojamos), cuando la informacion este llena le damos en el boton **ingresar** nos abrira un control de usuario y una grafica.
 En el control de usuario nos mostrara el nombre que ingresamos y valor mensual que le coresponde pagar a la persona, existe un boton llamado **editar** si le damos clic nos muestra otro formulario con toda la informacion que ingresamos anteriormente. Ahí podemos editar la informacion ya cuando termina le damos en el boton **actualizar** y nos devuelve al anterior formulario actualizando nuestra informacion tanto en el control de usuario como en la grafica.
-Existen dos botones en el formulario principal que es el **color** sirve para cambiale el color a nuestro formularion y **ayuda** que es para escribir si necesita alguna ayuda
+Existen dos botones en el formulario principal que es el **color** sirve para cambiale el color a nuestro formularion y **ayuda** que es para escribir si necesita alguna ayuda, tambien una caja de opciones que es donde ponemos elegir que idioma queremos, hay tres (frances, ingles y español)
 
-
+![fun1](https://user-images.githubusercontent.com/62104658/81892085-dc690500-956f-11ea-8abc-8d7da0b4d8e3.jpg)
+![fun3](https://user-images.githubusercontent.com/62104658/81892089-dd019b80-956f-11ea-8c6c-942587bd4fdb.jpg)
+![fun4](https://user-images.githubusercontent.com/62104658/81892090-dd9a3200-956f-11ea-82ca-885ac80e1b2b.jpg)
+![fun5](https://user-images.githubusercontent.com/62104658/81892092-de32c880-956f-11ea-8c60-391d86395a83.jpg)
+![fun6](https://user-images.githubusercontent.com/62104658/81892093-de32c880-956f-11ea-8d72-dd6c6146acd8.jpg)
+![fun7](https://user-images.githubusercontent.com/62104658/81892094-decb5f00-956f-11ea-9928-d94dd73dd517.jpg)
+![fun8](https://user-images.githubusercontent.com/62104658/81892095-df63f580-956f-11ea-8727-04e9ac4a6af6.jpg)
+![fun9](https://user-images.githubusercontent.com/62104658/81892097-df63f580-956f-11ea-99d9-6bd00bfeb2fe.jpg)
+![fun10](https://user-images.githubusercontent.com/62104658/81892098-dffc8c00-956f-11ea-80b8-e05f9eaee2d3.jpg)
+![fun11](https://user-images.githubusercontent.com/62104658/81892099-dffc8c00-956f-11ea-8228-ac81ab5e3a96.jpg)
 
 ###### Validaciones
 1. En la **cedula** solo permite 10 caracteres
