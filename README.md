@@ -4,7 +4,7 @@
 ##### DOCENTE: Michael Sneider Puentes Palacio 
 
 #### CONTENIDO
-1. [¿Cómo instalarlo?](#Cómo-instalarlo)
+1. [¿Cómo instalarlo?](#cómo-instalarlo)
 2. [Su funcionamiento]
 3. [Como utilizarlo]
 
@@ -16,3 +16,7 @@ Para la instalacion del programa debe seguir los siguientes pasos:
 2. Dar clic en el boton ***`Clone or download`***
    
 3. Seleccionar la opcion ***`Download ZIP`*** 
+
+4. Al descargar, nos dirigimos a Descargas buscamos el archivo llamado **proyecto-programacion-master** y descomprimimos el archivo
+5. Abrimos el archivo descomprimido 
+6. Abrimos la carpeta **proyecto** y ejecutamos la **aplicacion proyecto**
