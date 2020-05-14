@@ -11,7 +11,7 @@
 5. [Lenguaje de programacion](#lenguaje-de-programacion)
 6. [Video](#video)
 
-#### ¿Cómo instalarlo?
+### ¿Cómo instalarlo?
 
 Para la instalacion del programa debe seguir los siguientes pasos:
 1. Debe ir al siguiente link
@@ -34,7 +34,7 @@ Para la instalacion del programa debe seguir los siguientes pasos:
    
 Así es como se hace la instalacion del programa.
    
-#### ¿Cómo funciona?
+### ¿Cómo funciona?
 
 El programa nos permitira llevar un registro de cada prestamo de dinero que hagamos, nos dara graficamente los registros, podemos cambiarle el color y el idioma a nuestro formulario, tambien tenemos un boton de ayuda.
 
@@ -54,7 +54,7 @@ Existen dos botones en el formulario principal que es el **color** sirve para ca
 ![fun10](https://user-images.githubusercontent.com/62104658/81892098-dffc8c00-956f-11ea-80b8-e05f9eaee2d3.jpg)
 ![fun11](https://user-images.githubusercontent.com/62104658/81892099-dffc8c00-956f-11ea-8228-ac81ab5e3a96.jpg)
 
-#### Validaciones
+### Validaciones
 1. En la **cedula** solo permite 10 caracteres
    ![val1](https://user-images.githubusercontent.com/62104658/81892390-a5472380-9570-11ea-8c79-5f9061d9e747.jpg)
 
@@ -64,7 +64,7 @@ Existen dos botones en el formulario principal que es el **color** sirve para ca
 3. Todos los campos son obligatorios
    ![val2](https://user-images.githubusercontent.com/62104658/81892394-a5dfba00-9570-11ea-8e67-caa10548a8b9.jpg)
    
-#### Herramientas utilizadas
+### Herramientas utilizadas
 Las herramienta de diseño utilizo diferentes cuadros de herramientas que nos brinda Visual Studio.
 ![her1](https://user-images.githubusercontent.com/62104658/81894325-17ba0280-9575-11ea-811b-f9a213ed570b.jpg)
 ![her2](https://user-images.githubusercontent.com/62104658/81894328-18eb2f80-9575-11ea-854a-1d1de2f96204.jpg)
@@ -73,10 +73,10 @@ La grafica la hacemos a traves de una DLL que nos permite utilizarla en varios p
 Una DLL es una biblioteca que contiene código y datos que pueden ser utilizados por más de un programa al mismo tiempo.
 ![CHART](https://user-images.githubusercontent.com/62104658/81894401-4506b080-9575-11ea-8d5d-2e773d8c2294.jpg)
 
-#### Lenguaje de programacion
+### Lenguaje de programacion
 Este proyecto esta realizado con el lenguaje C#, la plataforma que utilizamos para desarrollarlo fue Visual Studio.
 
-#### Video
+### Video
 ```
    software: https://www.youtube.com/watch?v=UB-I9QvfBu8&feature=youtu.be
 ```
