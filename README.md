@@ -5,11 +5,11 @@
 
 #### CONTENIDO
 1. [¿Cómo instalarlo?](#cómo-instalarlo)
-2. [¿Cómo funciona?]
-3. [Validaciones]
-4. [Herramientas utilizadas]
-5. [Lenguaje de programacion]
-6. [Video]
+2. [¿Cómo funciona?](#cómo-funciona)
+3. [Validaciones](#Validaciones)
+4. [Herramientas utilizadas](#herramientas-utilizadas)
+5. [Lenguaje de programacion](#lenguaje-de-programacion)
+6. [Video](#video)
 
 #### ¿Cómo instalarlo?
 
@@ -65,9 +65,12 @@ Existen dos botones en el formulario principal que es el **color** sirve para ca
    ![val2](https://user-images.githubusercontent.com/62104658/81892394-a5dfba00-9570-11ea-8e67-caa10548a8b9.jpg)
    
 #### Herramientas utilizadas
-
+Las herramienta de diseño utilizo diferentes cuadros de herramientas que nos brinda Visual Studio.
 ![her1](https://user-images.githubusercontent.com/62104658/81894325-17ba0280-9575-11ea-811b-f9a213ed570b.jpg)
 ![her2](https://user-images.githubusercontent.com/62104658/81894328-18eb2f80-9575-11ea-854a-1d1de2f96204.jpg)
+
+La grafica la hacemos a traves de una DLL que nos permite utilizarla en varios programas sin estar haciendo varias.
+Una DLL es una biblioteca que contiene código y datos que pueden ser utilizados por más de un programa al mismo tiempo.
 ![CHART](https://user-images.githubusercontent.com/62104658/81894401-4506b080-9575-11ea-8d5d-2e773d8c2294.jpg)
 
 #### Lenguaje de programacion
@@ -77,7 +80,6 @@ Este proyecto esta realizado con el lenguaje C#, la plataforma que utilizamos pa
 ```
    software: https://www.youtube.com/watch?v=UB-I9QvfBu8&feature=youtu.be
 ```
-(https://www.youtube.com/watch?v=UB-I9QvfBu8&feature=youtu.be)
 
 
 
