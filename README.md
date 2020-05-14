@@ -7,7 +7,7 @@
 1. [¿Cómo instalarlo?](#cómo-instalarlo)
 2. [¿Cómo funciona?]
 3. [Validaciones]
-4. []
+4. [Herramientas utilizadas]
 5. [Lenguaje de programacion]
 6. [Video]
 
@@ -40,7 +40,8 @@ El programa nos permitira llevar un registro de cada prestamo de dinero que haga
 
 Cuando ya hemos instalado el programa lo abrimos y nos vamos a encontrar con un formulario donde vamos a llenar la informacion (el interes se llena automaticamente dependiendo de los meses que escojamos), cuando la informacion este llena le damos en el boton **ingresar** nos abrira un control de usuario y una grafica.
 En el control de usuario nos mostrara el nombre que ingresamos y valor mensual que le coresponde pagar a la persona, existe un boton llamado **editar** si le damos clic nos muestra otro formulario con toda la informacion que ingresamos anteriormente. Ahí podemos editar la informacion ya cuando termina le damos en el boton **actualizar** y nos devuelve al anterior formulario actualizando nuestra informacion tanto en el control de usuario como en la grafica.
-Existen dos botones en el formulario principal que es el **color** sirve para cambiale el color a nuestro formularion y **ayuda** que es para escribir si necesita alguna ayuda, tambien una caja de opciones que es donde ponemos elegir que idioma queremos, hay tres (frances, ingles y español)
+Hay una caja de opciones que es donde ponemos elegir que idioma queremos, hay tres (frances, ingles y español)
+Existen dos botones en el formulario principal que es el **color** sirve para cambiale el color a nuestro formularion y **ayuda** que es para escribir si necesita alguna ayuda.
 
 ![fun1](https://user-images.githubusercontent.com/62104658/81892085-dc690500-956f-11ea-8abc-8d7da0b4d8e3.jpg)
 ![fun3](https://user-images.githubusercontent.com/62104658/81892089-dd019b80-956f-11ea-8c6c-942587bd4fdb.jpg)
@@ -53,16 +54,30 @@ Existen dos botones en el formulario principal que es el **color** sirve para ca
 ![fun10](https://user-images.githubusercontent.com/62104658/81892098-dffc8c00-956f-11ea-80b8-e05f9eaee2d3.jpg)
 ![fun11](https://user-images.githubusercontent.com/62104658/81892099-dffc8c00-956f-11ea-8228-ac81ab5e3a96.jpg)
 
-###### Validaciones
+#### Validaciones
 1. En la **cedula** solo permite 10 caracteres
-2. En la **cedula** y **valor** solo permite numeros
-3. Todos los campos son obligatorios
+   ![val1](https://user-images.githubusercontent.com/62104658/81892390-a5472380-9570-11ea-8c79-5f9061d9e747.jpg)
 
+2. En la **cedula** y **valor** solo permite numeros
+   ![val3](https://user-images.githubusercontent.com/62104658/81892395-a6785080-9570-11ea-82fc-04837ed507c7.jpg)
+   
+3. Todos los campos son obligatorios
+   ![val2](https://user-images.githubusercontent.com/62104658/81892394-a5dfba00-9570-11ea-8e67-caa10548a8b9.jpg)
+   
+#### Herramientas utilizadas
+
+![her1](https://user-images.githubusercontent.com/62104658/81894325-17ba0280-9575-11ea-811b-f9a213ed570b.jpg)
+![her2](https://user-images.githubusercontent.com/62104658/81894328-18eb2f80-9575-11ea-854a-1d1de2f96204.jpg)
+![CHART](https://user-images.githubusercontent.com/62104658/81894401-4506b080-9575-11ea-8d5d-2e773d8c2294.jpg)
 
 #### Lenguaje de programacion
 Este proyecto esta realizado con el lenguaje C#, la plataforma que utilizamos para desarrollarlo fue Visual Studio.
 
 #### Video
+```
+   software: https://www.youtube.com/watch?v=UB-I9QvfBu8&feature=youtu.be
+```
+[![VideoFuncionalidad](https://j.gifs.com/jZ9mmY.gif)](https://www.youtube.com/watch?v=UB-I9QvfBu8&feature=youtu.be)
 
 
 
