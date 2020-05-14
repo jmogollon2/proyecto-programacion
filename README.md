@@ -77,7 +77,7 @@ Este proyecto esta realizado con el lenguaje C#, la plataforma que utilizamos pa
 ```
    software: https://www.youtube.com/watch?v=UB-I9QvfBu8&feature=youtu.be
 ```
-[![VideoFuncionalidad](https://j.gifs.com/jZ9mmY.gif)](https://www.youtube.com/watch?v=UB-I9QvfBu8&feature=youtu.be)
+(https://www.youtube.com/watch?v=UB-I9QvfBu8&feature=youtu.be)
 
 
 
